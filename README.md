@@ -33,5 +33,5 @@ Acredito que a tecnologia deve servir para otimizar o dia a dia e eliminar garga
 
 <div align="center">
   <br />
-  <sub>Conecte-se comigo no <a href="LINK_DO_SEU_LINKEDIN">LinkedIn</a></sub>
+  <sub>Conecte-se comigo no <a href="https://www.linkedin.com/in/wuelber-santos/">LinkedIn</a></sub>
 </div>
