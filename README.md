@@ -7,7 +7,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=agostinhomarcia&repo=agostinhomarcia" align="right" width="400" alt="Banner Ilustrativo" />
+
 
 ### 🚀 Sobre Mim
 
